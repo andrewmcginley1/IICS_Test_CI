@@ -1,0 +1,24 @@
+[
+   {
+      "objectGuid": "1eKsq29MouGerWZMFsSs0l",
+      "objectName": "PO-Test",
+      "objectType": "PROCESS_OBJECT",
+      "path": "/Explore/Andy_CI_PIPELINE TEST",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "Test PO",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0yeG3vASaaaaa-gt-564776-2019-09-04T14:00:45.997Z::po.xml"
+         }
+      }
+   }
+]
