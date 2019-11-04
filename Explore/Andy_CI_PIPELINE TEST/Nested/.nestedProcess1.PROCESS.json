@@ -1,0 +1,24 @@
+[
+   {
+      "objectGuid": "jmLK87YDrOAfryr1PbgUki",
+      "objectName": "nestedProcess1",
+      "objectType": "PROCESS",
+      "path": "/Explore/Andy_CI_PIPELINE TEST/Nested",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "Q4hBnJKoJBUhtyc-gt-10203556-2019-11-04T16:48:06.968Z::pd.xml"
+         }
+      }
+   }
+]
