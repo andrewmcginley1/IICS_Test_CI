@@ -1,0 +1,24 @@
+[
+   {
+      "objectGuid": "imo5jVbLYsxgKPTLLCxkCz",
+      "objectName": "Process3",
+      "objectType": "PROCESS",
+      "path": "/Explore/Andy_CI_PIPELINE TEST",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "xYOuVGTiPZx1Xmg-gt-10159320-2019-11-04T13:50:08.38Z::pd.xml"
+         }
+      }
+   }
+]
